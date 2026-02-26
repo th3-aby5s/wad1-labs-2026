@@ -3,29 +3,30 @@
 <section class="ui left aligned middle aligned segment">
 
     <h2>About the Playlist App</h2>
-    <p>
-        More information about the app
-    </p>
+    <h3>Our Team</h3>
 
-    <div class="ui centered card">
-        <div class="image">
-            <img src="/stevie.jpg">
-        </div>
-        <div class="content">
-            <a class="header"> {{info.fullname}} </a>
-            <div class="meta">
-                <span class="date">Joined in {{info.joined}}</span>
+    <div class="ui centered link cards">
+        {{#each emps}}
+        <div class="ui card">
+            <div class="image">
+                <img src="{{image}}">
             </div>
-            <div class="description">
-               {{info.name}} is a {{info.job}} living in {{info.city}}.
+            <div class="content">
+                <a class="header">{{fullname}}</a>
+                <div class="meta">
+                    <span class="date">Joined in {{joined}}</span>
+                </div>
+                <div class="description">
+                    {{name}} is an {{job}} living in {{city}}.
+                </div>
+            </div>
+            <div class="extra content">
+                <a>
+                    <i class="user icon"></i>
+                    {{mates}} contacts
+                </a>
             </div>
         </div>
-        <div class="extra content">
-            <a>
-                <i class="user icon"></i>
-                {{info.mates}} contacts
-            </a>
-        </div>
+        {{/each}}
     </div>
-
 </section>
