@@ -21,3 +21,7 @@ body {
   margin: 2em;
   background-color: lightgrey;
 }
+
+table {
+  margin:auto
+}
