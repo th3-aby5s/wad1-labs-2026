@@ -1,61 +1,92 @@
 {
   "playlistCollection": [
     {
-      "id": "01",
-      "title": "Beethoven Sonatas",
-      "rating": 3,
-      "songs": [
-        {
-          "id": "04",
-          "title": "Piano Sonata No. 3",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "05",
-          "title": "Piano Sonata No. 7",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "06",
-          "title": "Piano Sonata No. 10",
-          "artist": "Beethoven"
-        }
-      ]
-    },
-    {
-      "id": "02",
-      "title": "Beethoven Concertos",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "aca57b00-7fd3-4a7d-9845-3687cc245f91",
+      "title": "Marge's new playlist",
       "rating": 5,
+      "songs": [],
+      "date": "2026-04-16T14:24:49.356Z"
+    },
+    {
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "8a3eebd0-1355-4ecb-8514-f7efd9354937",
+      "title": "Homer's new playlist",
+      "rating": 0,
       "songs": [
         {
-          "id": "07",
-          "title": "Piano Concerto No. 0",
-          "artist": "Beethoven"
+          "id": "d7000705-67b2-41be-9acb-d798d0b98382",
+          "title": "usbdfh",
+          "artist": "sjhbdfsd"
         },
         {
-          "id": "08",
-          "title": "Piano Concerto No. 4",
-          "artist": "Beethoven"
+          "id": "4bc4f9db-3395-4613-adf4-01de74d6b474",
+          "title": "hsbdfsjd",
+          "artist": "hsabdfsdj"
         },
         {
-          "id": "09",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
+          "id": "9e66856f-c302-492d-b1ea-2cb96ac3f65f",
+          "title": "whebewg",
+          "artist": "sdfsd"
+        },
+        {
+          "id": "0c3b2254-347b-41f0-b3aa-624738063b3f",
+          "title": "shbdfhsd",
+          "artist": "sdfbsdhj"
         }
-      ]
+      ],
+      "date": "2026-04-16T14:25:23.174Z"
     },
     {
-      "id": "03",
-      "title": "Beethoven Unfinished Symphonies",
-      "rating": 1,
-      "songs": []
+      "userid": "5fd1b94d-1591-42b3-8355-25867f410577",
+      "id": "a65ce4b9-7a1f-4c8b-8402-b3b79c07da03",
+      "title": "Playlist from yer man",
+      "rating": 2,
+      "songs": [
+        {
+          "id": "36ab7697-eb16-4038-bdd7-8f560fee065c",
+          "title": "yer man yodelling",
+          "artist": "Yer Man"
+        },
+        {
+          "id": "e3200248-eed6-4517-955d-18b730fc7756",
+          "title": "yer man hollering",
+          "artist": "Yer Man"
+        }
+      ],
+      "date": "2026-04-16T14:27:21.054Z"
     },
     {
-      "id": "07b6f515-3cd3-4f50-8d50-4b741fe2715c",
-      "title": "Beethoven Symphonies",
-      "date": "2026-03-27T04:06:12.294Z",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "45c31a78-cc91-45d7-8cd4-c93f9f8d1c87",
+      "title": "Homer's old playlist",
+      "rating": 3,
+      "songs": [],
+      "date": "2026-04-16T14:39:33.188Z"
+    },
+    {
+      "userid": "3fb6163a-8d89-40a9-8057-cdc91c30345a",
+      "id": "549369ec-e0c1-4df1-a46c-a8709a01dba5",
+      "title": "1",
+      "rating": 2,
+      "songs": [],
+      "date": "2026-04-16T15:34:00.639Z"
+    },
+    {
+      "userid": "3fb6163a-8d89-40a9-8057-cdc91c30345a",
+      "id": "abb8a9b9-96dc-49eb-b017-609b33609e34",
+      "title": "sdsdf",
       "rating": 4,
-      "songs": []
+      "songs": [],
+      "date": "2026-04-16T15:34:05.576Z"
+    },
+    {
+      "userid": "3fb6163a-8d89-40a9-8057-cdc91c30345a",
+      "id": "858cfcf6-0930-4b73-b385-f5777795944d",
+      "title": "sdfghhy",
+      "rating": 2,
+      "songs": [],
+      "date": "2026-04-16T15:34:22.643Z"
     }
   ]
 }
