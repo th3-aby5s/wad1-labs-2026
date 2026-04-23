@@ -27,6 +27,17 @@
       "email": "aine@tuazon.com",
       "password": "ainetuazon",
       "id": "3fb6163a-8d89-40a9-8057-cdc91c30345a"
+    },
+    {
+      "firstName": "Amari",
+      "lastName": "Aleina",
+      "email": "amari@aleina.com",
+      "password": "amarialeina",
+      "id": "3f5b4743-90db-457f-826e-2415c707e866",
+      "picture": {
+        "url": "http://res.cloudinary.com/drkrgd28d/image/upload/v1776959163/yt5hrxmim9wxjxhkvyvs.jpg",
+        "public_id": "yt5hrxmim9wxjxhkvyvs"
+      }
     }
   ]
 }
