@@ -65,28 +65,66 @@
       "date": "2026-04-16T14:39:33.188Z"
     },
     {
+      "id": "a39f0844-9dfb-41eb-9614-788ba217b98c",
       "userid": "3fb6163a-8d89-40a9-8057-cdc91c30345a",
-      "id": "549369ec-e0c1-4df1-a46c-a8709a01dba5",
-      "title": "1",
-      "rating": 2,
-      "songs": [],
-      "date": "2026-04-16T15:34:00.639Z"
-    },
-    {
-      "userid": "3fb6163a-8d89-40a9-8057-cdc91c30345a",
-      "id": "abb8a9b9-96dc-49eb-b017-609b33609e34",
-      "title": "sdsdf",
+      "title": "Randomness",
       "rating": 4,
       "songs": [],
-      "date": "2026-04-16T15:34:05.576Z"
+      "date": "2026-04-23T14:49:13.142Z",
+      "picture": {
+        "url": "http://res.cloudinary.com/drkrgd28d/image/upload/v1776955754/sikqeauqkxgypwgtnjqw.jpg",
+        "public_id": "sikqeauqkxgypwgtnjqw"
+      }
     },
     {
+      "id": "17880310-1fc2-40cf-8f33-edf946705502",
       "userid": "3fb6163a-8d89-40a9-8057-cdc91c30345a",
-      "id": "858cfcf6-0930-4b73-b385-f5777795944d",
-      "title": "sdfghhy",
-      "rating": 2,
+      "title": "I'm such a fat fuckin chud",
+      "rating": 0,
       "songs": [],
-      "date": "2026-04-16T15:34:22.643Z"
+      "date": "2026-04-23T14:50:49.726Z",
+      "picture": {
+        "url": "http://res.cloudinary.com/drkrgd28d/image/upload/v1776955850/yh7blaxlczs9trjb5c3g.png",
+        "public_id": "yh7blaxlczs9trjb5c3g"
+      }
+    },
+    {
+      "id": "caa14f70-3521-43f5-a8e9-68e917fc4fd2",
+      "userid": "3fb6163a-8d89-40a9-8057-cdc91c30345a",
+      "title": "Female Rage",
+      "rating": 5,
+      "songs": [
+        {
+          "id": "63b6c1aa-cbb8-4834-9437-f3ef5851e380",
+          "title": "labour",
+          "artist": "Paris Paloma"
+        },
+        {
+          "id": "6695b946-1573-4d51-9ab3-3e399d1e1eeb",
+          "title": "Pretty Little Things",
+          "artist": "The Crane Wives"
+        },
+        {
+          "id": "b6fb37f1-c2d5-49a2-ad9c-10fc6e467621",
+          "title": "The Hand",
+          "artist": "Annabelle Dinda"
+        },
+        {
+          "id": "f4d15afd-7581-4c8a-8916-a58a064e5571",
+          "title": "The Serpent & The Starved Girl",
+          "artist": "RafScrap"
+        },
+        {
+          "id": "a1fc30fd-a599-46e6-bbb3-818ee3c77707",
+          "title": "Wildfire (Gone, Gone, Gone)",
+          "artist": "Rabbitology"
+        }
+      ],
+      "date": "2026-04-23T14:51:44.946Z",
+      "picture": {
+        "url": "http://res.cloudinary.com/drkrgd28d/image/upload/v1776955906/f6joqbi0vvyhrwdhothh.jpg",
+        "public_id": "f6joqbi0vvyhrwdhothh"
+      }
     }
   ]
 }
